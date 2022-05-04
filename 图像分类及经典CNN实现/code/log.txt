@@ -1,0 +1,945 @@
+beginning--------------------------2022-05-02 15:39:21---------------------------
+model: lenet
+epochs: 10
+learning rate: 0.01
+dropout: 0.0
+training......
+epoch 1, loss 0.0164, train acc 0.932
+epoch 2, loss 0.0114, train acc 0.958
+epoch 3, loss 0.0120, train acc 0.960
+epoch 4, loss 0.0122, train acc 0.960
+epoch 5, loss 0.0113, train acc 0.962
+epoch 6, loss 0.0113, train acc 0.963
+epoch 7, loss 0.0117, train acc 0.963
+epoch 8, loss 0.0112, train acc 0.965
+epoch 9, loss 0.0121, train acc 0.964
+epoch 10, loss 0.0134, train acc 0.960
+validating......
+model lenet, epochs 10, lr 0.0100, dropout 0.00, valid loss 0.0125, valid acc 0.962
+testing......
+model lenet, epochs 10, lr 0.0100, dropout 0.00, test loss 0.0104, test acc 0.965
+ending-----------------------------2022-05-02 15:43:14---------------------------
+beginning--------------------------2022-05-02 15:43:15---------------------------
+model: lenet
+epochs: 10
+learning rate: 0.01
+dropout: 0.1
+training......
+epoch 1, loss 0.0168, train acc 0.929
+epoch 2, loss 0.0130, train acc 0.952
+epoch 3, loss 0.0135, train acc 0.954
+epoch 4, loss 0.0130, train acc 0.956
+epoch 5, loss 0.0124, train acc 0.959
+epoch 6, loss 0.0134, train acc 0.957
+epoch 7, loss 0.0132, train acc 0.958
+epoch 8, loss 0.0143, train acc 0.956
+epoch 9, loss 0.0129, train acc 0.960
+epoch 10, loss 0.0144, train acc 0.955
+validating......
+model lenet, epochs 10, lr 0.0100, dropout 0.10, valid loss 0.0188, valid acc 0.936
+testing......
+model lenet, epochs 10, lr 0.0100, dropout 0.10, test loss 0.0222, test acc 0.944
+ending-----------------------------2022-05-02 15:47:02---------------------------
+beginning--------------------------2022-05-02 15:47:03---------------------------
+model: lenet
+epochs: 10
+learning rate: 0.01
+dropout: 0.2
+training......
+epoch 1, loss 0.0224, train acc 0.899
+epoch 2, loss 0.0156, train acc 0.937
+epoch 3, loss 0.0148, train acc 0.942
+epoch 4, loss 0.0152, train acc 0.945
+epoch 5, loss 0.0149, train acc 0.947
+epoch 6, loss 0.0163, train acc 0.945
+epoch 7, loss 0.0148, train acc 0.949
+epoch 8, loss 0.0161, train acc 0.946
+epoch 9, loss 0.0143, train acc 0.951
+epoch 10, loss 0.0154, train acc 0.949
+validating......
+model lenet, epochs 10, lr 0.0100, dropout 0.20, valid loss 0.0163, valid acc 0.953
+testing......
+model lenet, epochs 10, lr 0.0100, dropout 0.20, test loss 0.0155, test acc 0.954
+ending-----------------------------2022-05-02 15:51:02---------------------------
+beginning--------------------------2022-05-02 15:51:03---------------------------
+model: lenet
+epochs: 10
+learning rate: 0.001
+dropout: 0.0
+training......
+epoch 1, loss 0.0109, train acc 0.946
+epoch 2, loss 0.0039, train acc 0.981
+epoch 3, loss 0.0029, train acc 0.986
+epoch 4, loss 0.0023, train acc 0.989
+epoch 5, loss 0.0019, train acc 0.991
+epoch 6, loss 0.0016, train acc 0.992
+epoch 7, loss 0.0015, train acc 0.993
+epoch 8, loss 0.0012, train acc 0.994
+epoch 9, loss 0.0010, train acc 0.995
+epoch 10, loss 0.0010, train acc 0.995
+validating......
+model lenet, epochs 10, lr 0.0010, dropout 0.00, valid loss 0.0035, valid acc 0.986
+testing......
+model lenet, epochs 10, lr 0.0010, dropout 0.00, test loss 0.0027, test acc 0.990
+ending-----------------------------2022-05-02 15:54:37---------------------------
+beginning--------------------------2022-05-02 15:54:38---------------------------
+model: lenet
+epochs: 10
+learning rate: 0.001
+dropout: 0.1
+training......
+epoch 1, loss 0.0111, train acc 0.944
+epoch 2, loss 0.0041, train acc 0.980
+epoch 3, loss 0.0031, train acc 0.985
+epoch 4, loss 0.0025, train acc 0.987
+epoch 5, loss 0.0021, train acc 0.990
+epoch 6, loss 0.0018, train acc 0.991
+epoch 7, loss 0.0017, train acc 0.992
+epoch 8, loss 0.0015, train acc 0.993
+epoch 9, loss 0.0014, train acc 0.993
+epoch 10, loss 0.0012, train acc 0.995
+validating......
+model lenet, epochs 10, lr 0.0010, dropout 0.10, valid loss 0.0038, valid acc 0.986
+testing......
+model lenet, epochs 10, lr 0.0010, dropout 0.10, test loss 0.0030, test acc 0.988
+ending-----------------------------2022-05-02 15:58:12---------------------------
+beginning--------------------------2022-05-02 15:58:14---------------------------
+model: lenet
+epochs: 10
+learning rate: 0.001
+dropout: 0.2
+training......
+epoch 1, loss 0.0127, train acc 0.935
+epoch 2, loss 0.0045, train acc 0.978
+epoch 3, loss 0.0036, train acc 0.983
+epoch 4, loss 0.0029, train acc 0.986
+epoch 5, loss 0.0024, train acc 0.989
+epoch 6, loss 0.0022, train acc 0.989
+epoch 7, loss 0.0019, train acc 0.991
+epoch 8, loss 0.0018, train acc 0.991
+epoch 9, loss 0.0016, train acc 0.993
+epoch 10, loss 0.0015, train acc 0.993
+validating......
+model lenet, epochs 10, lr 0.0010, dropout 0.20, valid loss 0.0039, valid acc 0.986
+testing......
+model lenet, epochs 10, lr 0.0010, dropout 0.20, test loss 0.0030, test acc 0.987
+ending-----------------------------2022-05-02 16:01:43---------------------------
+beginning--------------------------2022-05-02 16:01:44---------------------------
+model: lenet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.0
+training......
+epoch 1, loss 0.0283, train acc 0.865
+epoch 2, loss 0.0089, train acc 0.957
+epoch 3, loss 0.0064, train acc 0.968
+epoch 4, loss 0.0051, train acc 0.975
+epoch 5, loss 0.0043, train acc 0.979
+epoch 6, loss 0.0037, train acc 0.982
+epoch 7, loss 0.0032, train acc 0.984
+epoch 8, loss 0.0029, train acc 0.986
+epoch 9, loss 0.0026, train acc 0.988
+epoch 10, loss 0.0023, train acc 0.989
+validating......
+model lenet, epochs 10, lr 0.0001, dropout 0.00, valid loss 0.0030, valid acc 0.985
+testing......
+model lenet, epochs 10, lr 0.0001, dropout 0.00, test loss 0.0022, test acc 0.989
+ending-----------------------------2022-05-02 16:05:14---------------------------
+beginning--------------------------2022-05-02 16:05:15---------------------------
+model: lenet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.1
+training......
+epoch 1, loss 0.0330, train acc 0.840
+epoch 2, loss 0.0095, train acc 0.953
+epoch 3, loss 0.0064, train acc 0.968
+epoch 4, loss 0.0050, train acc 0.975
+epoch 5, loss 0.0042, train acc 0.979
+epoch 6, loss 0.0036, train acc 0.982
+epoch 7, loss 0.0032, train acc 0.984
+epoch 8, loss 0.0029, train acc 0.986
+epoch 9, loss 0.0026, train acc 0.988
+epoch 10, loss 0.0024, train acc 0.988
+validating......
+model lenet, epochs 10, lr 0.0001, dropout 0.10, valid loss 0.0035, valid acc 0.984
+testing......
+model lenet, epochs 10, lr 0.0001, dropout 0.10, test loss 0.0029, test acc 0.985
+ending-----------------------------2022-05-02 16:08:43---------------------------
+beginning--------------------------2022-05-02 16:08:44---------------------------
+model: lenet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.2
+training......
+epoch 1, loss 0.0317, train acc 0.848
+epoch 2, loss 0.0092, train acc 0.956
+epoch 3, loss 0.0063, train acc 0.969
+epoch 4, loss 0.0050, train acc 0.975
+epoch 5, loss 0.0042, train acc 0.980
+epoch 6, loss 0.0035, train acc 0.983
+epoch 7, loss 0.0032, train acc 0.984
+epoch 8, loss 0.0028, train acc 0.986
+epoch 9, loss 0.0026, train acc 0.987
+epoch 10, loss 0.0024, train acc 0.988
+validating......
+model lenet, epochs 10, lr 0.0001, dropout 0.20, valid loss 0.0033, valid acc 0.984
+testing......
+model lenet, epochs 10, lr 0.0001, dropout 0.20, test loss 0.0024, test acc 0.988
+ending-----------------------------2022-05-02 16:12:17---------------------------
+beginning--------------------------2022-05-02 16:16:39---------------------------
+model: alexnet
+epochs: 10
+learning rate: 0.01
+dropout: 0.0
+training......
+epoch 1, loss 0.1440, train acc 0.107
+epoch 2, loss 0.1440, train acc 0.106
+epoch 3, loss 0.1439, train acc 0.105
+epoch 4, loss 0.1440, train acc 0.108
+epoch 5, loss 0.1439, train acc 0.107
+epoch 6, loss 0.1440, train acc 0.108
+epoch 7, loss 0.1440, train acc 0.107
+epoch 8, loss 0.1440, train acc 0.106
+epoch 9, loss 0.1439, train acc 0.106
+epoch 10, loss 0.1439, train acc 0.108
+validating......
+model alexnet, epochs 10, lr 0.0100, dropout 0.00, valid loss 0.1438, valid acc 0.117
+testing......
+model alexnet, epochs 10, lr 0.0100, dropout 0.00, test loss 0.1439, test acc 0.114
+ending-----------------------------2022-05-02 16:32:06---------------------------
+beginning--------------------------2022-05-02 16:32:07---------------------------
+model: alexnet
+epochs: 10
+learning rate: 0.01
+dropout: 0.1
+training......
+epoch 1, loss 0.1440, train acc 0.107
+epoch 2, loss 0.1439, train acc 0.106
+epoch 3, loss 0.1439, train acc 0.109
+epoch 4, loss 0.1440, train acc 0.105
+epoch 5, loss 0.1439, train acc 0.109
+epoch 6, loss 0.1439, train acc 0.107
+epoch 7, loss 0.1440, train acc 0.108
+epoch 8, loss 0.1439, train acc 0.105
+epoch 9, loss 0.1440, train acc 0.107
+epoch 10, loss 0.1440, train acc 0.105
+validating......
+model alexnet, epochs 10, lr 0.0100, dropout 0.10, valid loss 0.1438, valid acc 0.117
+testing......
+model alexnet, epochs 10, lr 0.0100, dropout 0.10, test loss 0.1439, test acc 0.114
+ending-----------------------------2022-05-02 16:47:02---------------------------
+beginning--------------------------2022-05-02 16:47:04---------------------------
+model: alexnet
+epochs: 10
+learning rate: 0.01
+dropout: 0.2
+training......
+epoch 1, loss 0.1440, train acc 0.104
+epoch 2, loss 0.1440, train acc 0.107
+epoch 3, loss 0.1440, train acc 0.105
+epoch 4, loss 0.1440, train acc 0.107
+epoch 5, loss 0.1439, train acc 0.107
+epoch 6, loss 0.1440, train acc 0.108
+epoch 7, loss 0.1440, train acc 0.108
+epoch 8, loss 0.1439, train acc 0.108
+epoch 9, loss 0.1440, train acc 0.106
+epoch 10, loss 0.1440, train acc 0.108
+validating......
+model alexnet, epochs 10, lr 0.0100, dropout 0.20, valid loss 0.1438, valid acc 0.117
+testing......
+model alexnet, epochs 10, lr 0.0100, dropout 0.20, test loss 0.1439, test acc 0.114
+ending-----------------------------2022-05-02 17:02:21---------------------------
+beginning--------------------------2022-05-02 17:02:23---------------------------
+model: alexnet
+epochs: 10
+learning rate: 0.001
+dropout: 0.0
+training......
+epoch 1, loss 0.0144, train acc 0.924
+epoch 2, loss 0.0042, train acc 0.980
+epoch 3, loss 0.0032, train acc 0.985
+epoch 4, loss 0.0027, train acc 0.987
+epoch 5, loss 0.0022, train acc 0.990
+epoch 6, loss 0.0020, train acc 0.991
+epoch 7, loss 0.0018, train acc 0.991
+epoch 8, loss 0.0015, train acc 0.993
+epoch 9, loss 0.0016, train acc 0.993
+epoch 10, loss 0.0014, train acc 0.993
+validating......
+model alexnet, epochs 10, lr 0.0010, dropout 0.00, valid loss 0.0034, valid acc 0.987
+testing......
+model alexnet, epochs 10, lr 0.0010, dropout 0.00, test loss 0.0029, test acc 0.989
+ending-----------------------------2022-05-02 17:17:53---------------------------
+beginning--------------------------2022-05-02 17:17:55---------------------------
+model: alexnet
+epochs: 10
+learning rate: 0.001
+dropout: 0.1
+training......
+epoch 1, loss 0.0154, train acc 0.918
+epoch 2, loss 0.0045, train acc 0.978
+epoch 3, loss 0.0036, train acc 0.984
+epoch 4, loss 0.0028, train acc 0.987
+epoch 5, loss 0.0025, train acc 0.989
+epoch 6, loss 0.0021, train acc 0.991
+epoch 7, loss 0.0020, train acc 0.991
+epoch 8, loss 0.0017, train acc 0.993
+epoch 9, loss 0.0017, train acc 0.992
+epoch 10, loss 0.0016, train acc 0.993
+validating......
+model alexnet, epochs 10, lr 0.0010, dropout 0.10, valid loss 0.0035, valid acc 0.987
+testing......
+model alexnet, epochs 10, lr 0.0010, dropout 0.10, test loss 0.0027, test acc 0.990
+ending-----------------------------2022-05-02 17:33:19---------------------------
+beginning--------------------------2022-05-02 17:33:20---------------------------
+model: alexnet
+epochs: 10
+learning rate: 0.001
+dropout: 0.2
+training......
+epoch 1, loss 0.0181, train acc 0.904
+epoch 2, loss 0.0048, train acc 0.978
+epoch 3, loss 0.0037, train acc 0.983
+epoch 4, loss 0.0030, train acc 0.986
+epoch 5, loss 0.0026, train acc 0.989
+epoch 6, loss 0.0022, train acc 0.990
+epoch 7, loss 0.0022, train acc 0.991
+epoch 8, loss 0.0019, train acc 0.991
+epoch 9, loss 0.0019, train acc 0.991
+epoch 10, loss 0.0018, train acc 0.992
+validating......
+model alexnet, epochs 10, lr 0.0010, dropout 0.20, valid loss 0.0041, valid acc 0.984
+testing......
+model alexnet, epochs 10, lr 0.0010, dropout 0.20, test loss 0.0032, test acc 0.987
+ending-----------------------------2022-05-02 17:48:44---------------------------
+beginning--------------------------2022-05-02 17:48:46---------------------------
+model: alexnet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.0
+training......
+epoch 1, loss 0.0298, train acc 0.842
+epoch 2, loss 0.0082, train acc 0.957
+epoch 3, loss 0.0056, train acc 0.971
+epoch 4, loss 0.0043, train acc 0.978
+epoch 5, loss 0.0034, train acc 0.983
+epoch 6, loss 0.0029, train acc 0.985
+epoch 7, loss 0.0024, train acc 0.988
+epoch 8, loss 0.0020, train acc 0.989
+epoch 9, loss 0.0017, train acc 0.991
+epoch 10, loss 0.0015, train acc 0.992
+validating......
+model alexnet, epochs 10, lr 0.0001, dropout 0.00, valid loss 0.0025, valid acc 0.988
+testing......
+model alexnet, epochs 10, lr 0.0001, dropout 0.00, test loss 0.0021, test acc 0.989
+ending-----------------------------2022-05-02 18:02:24---------------------------
+beginning--------------------------2022-05-02 18:02:25---------------------------
+model: alexnet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.1
+training......
+epoch 1, loss 0.0302, train acc 0.837
+epoch 2, loss 0.0078, train acc 0.961
+epoch 3, loss 0.0055, train acc 0.973
+epoch 4, loss 0.0043, train acc 0.978
+epoch 5, loss 0.0035, train acc 0.983
+epoch 6, loss 0.0030, train acc 0.985
+epoch 7, loss 0.0025, train acc 0.987
+epoch 8, loss 0.0022, train acc 0.989
+epoch 9, loss 0.0020, train acc 0.990
+epoch 10, loss 0.0017, train acc 0.992
+validating......
+model alexnet, epochs 10, lr 0.0001, dropout 0.10, valid loss 0.0030, valid acc 0.986
+testing......
+model alexnet, epochs 10, lr 0.0001, dropout 0.10, test loss 0.0024, test acc 0.988
+ending-----------------------------2022-05-02 18:16:31---------------------------
+beginning--------------------------2022-05-02 18:16:32---------------------------
+model: alexnet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.2
+training......
+epoch 1, loss 0.0320, train acc 0.831
+epoch 2, loss 0.0091, train acc 0.955
+epoch 3, loss 0.0063, train acc 0.969
+epoch 4, loss 0.0049, train acc 0.975
+epoch 5, loss 0.0040, train acc 0.981
+epoch 6, loss 0.0034, train acc 0.983
+epoch 7, loss 0.0028, train acc 0.986
+epoch 8, loss 0.0025, train acc 0.987
+epoch 9, loss 0.0022, train acc 0.989
+epoch 10, loss 0.0019, train acc 0.990
+validating......
+model alexnet, epochs 10, lr 0.0001, dropout 0.20, valid loss 0.0040, valid acc 0.981
+testing......
+model alexnet, epochs 10, lr 0.0001, dropout 0.20, test loss 0.0031, test acc 0.985
+ending-----------------------------2022-05-02 18:31:30---------------------------
+beginning--------------------------2022-05-02 19:17:57---------------------------
+model: vggnet
+epochs: 10
+learning rate: 0.01
+dropout: 0.0
+training......
+epoch 1, loss 0.1440, train acc 0.108
+epoch 2, loss 0.1439, train acc 0.107
+epoch 3, loss 0.1440, train acc 0.107
+epoch 4, loss 0.1440, train acc 0.107
+epoch 5, loss 0.1440, train acc 0.108
+epoch 6, loss 0.1439, train acc 0.105
+epoch 7, loss 0.1440, train acc 0.106
+epoch 8, loss 0.1440, train acc 0.107
+epoch 9, loss 0.1440, train acc 0.105
+epoch 10, loss 0.1440, train acc 0.107
+validating......
+model vggnet, epochs 10, lr 0.0100, dropout 0.00, valid loss 0.1438, valid acc 0.117
+testing......
+model vggnet, epochs 10, lr 0.0100, dropout 0.00, test loss 0.1439, test acc 0.114
+ending-----------------------------2022-05-02 19:33:18---------------------------
+beginning--------------------------2022-05-02 19:33:19---------------------------
+model: vggnet
+epochs: 10
+learning rate: 0.01
+dropout: 0.1
+training......
+epoch 1, loss 0.1440, train acc 0.104
+epoch 2, loss 0.1439, train acc 0.107
+epoch 3, loss 0.1440, train acc 0.105
+epoch 4, loss 0.1439, train acc 0.107
+epoch 5, loss 0.1440, train acc 0.106
+epoch 6, loss 0.1440, train acc 0.107
+epoch 7, loss 0.1440, train acc 0.107
+epoch 8, loss 0.1440, train acc 0.106
+epoch 9, loss 0.1439, train acc 0.107
+epoch 10, loss 0.1440, train acc 0.106
+validating......
+model vggnet, epochs 10, lr 0.0100, dropout 0.10, valid loss 0.1439, valid acc 0.117
+testing......
+model vggnet, epochs 10, lr 0.0100, dropout 0.10, test loss 0.1439, test acc 0.114
+ending-----------------------------2022-05-02 19:48:29---------------------------
+beginning--------------------------2022-05-02 19:48:30---------------------------
+model: vggnet
+epochs: 10
+learning rate: 0.01
+dropout: 0.2
+training......
+epoch 1, loss 0.1440, train acc 0.105
+epoch 2, loss 0.1440, train acc 0.107
+epoch 3, loss 0.1440, train acc 0.105
+epoch 4, loss 0.1440, train acc 0.106
+epoch 5, loss 0.1439, train acc 0.107
+epoch 6, loss 0.1440, train acc 0.105
+epoch 7, loss 0.1440, train acc 0.107
+epoch 8, loss 0.1439, train acc 0.106
+epoch 9, loss 0.1439, train acc 0.106
+epoch 10, loss 0.1440, train acc 0.106
+validating......
+model vggnet, epochs 10, lr 0.0100, dropout 0.20, valid loss 0.1439, valid acc 0.117
+testing......
+model vggnet, epochs 10, lr 0.0100, dropout 0.20, test loss 0.1439, test acc 0.114
+ending-----------------------------2022-05-02 20:04:27---------------------------
+beginning--------------------------2022-05-02 20:04:28---------------------------
+model: vggnet
+epochs: 10
+learning rate: 0.001
+dropout: 0.0
+training......
+epoch 1, loss 0.0287, train acc 0.845
+epoch 2, loss 0.0073, train acc 0.971
+epoch 3, loss 0.0055, train acc 0.979
+epoch 4, loss 0.0048, train acc 0.982
+epoch 5, loss 0.0038, train acc 0.986
+epoch 6, loss 0.0035, train acc 0.987
+epoch 7, loss 0.0033, train acc 0.987
+epoch 8, loss 0.0032, train acc 0.988
+epoch 9, loss 0.0031, train acc 0.989
+epoch 10, loss 0.0030, train acc 0.989
+validating......
+model vggnet, epochs 10, lr 0.0010, dropout 0.00, valid loss 0.0041, valid acc 0.987
+testing......
+model vggnet, epochs 10, lr 0.0010, dropout 0.00, test loss 0.0030, test acc 0.989
+ending-----------------------------2022-05-02 20:20:02---------------------------
+beginning--------------------------2022-05-02 20:20:04---------------------------
+model: vggnet
+epochs: 10
+learning rate: 0.001
+dropout: 0.1
+training......
+epoch 1, loss 0.0582, train acc 0.651
+epoch 2, loss 0.0084, train acc 0.966
+epoch 3, loss 0.0059, train acc 0.976
+epoch 4, loss 0.0048, train acc 0.981
+epoch 5, loss 0.0040, train acc 0.984
+epoch 6, loss 0.0037, train acc 0.986
+epoch 7, loss 0.0033, train acc 0.987
+epoch 8, loss 0.0032, train acc 0.988
+epoch 9, loss 0.0031, train acc 0.988
+epoch 10, loss 0.0029, train acc 0.990
+validating......
+model vggnet, epochs 10, lr 0.0010, dropout 0.10, valid loss 0.0040, valid acc 0.985
+testing......
+model vggnet, epochs 10, lr 0.0010, dropout 0.10, test loss 0.0032, test acc 0.988
+ending-----------------------------2022-05-02 20:34:54---------------------------
+beginning--------------------------2022-05-02 20:34:55---------------------------
+model: vggnet
+epochs: 10
+learning rate: 0.001
+dropout: 0.2
+training......
+epoch 1, loss 0.0316, train acc 0.840
+epoch 2, loss 0.0083, train acc 0.968
+epoch 3, loss 0.0062, train acc 0.977
+epoch 4, loss 0.0050, train acc 0.982
+epoch 5, loss 0.0046, train acc 0.983
+epoch 6, loss 0.0039, train acc 0.986
+epoch 7, loss 0.0040, train acc 0.985
+epoch 8, loss 0.0032, train acc 0.989
+epoch 9, loss 0.0032, train acc 0.988
+epoch 10, loss 0.0030, train acc 0.989
+validating......
+model vggnet, epochs 10, lr 0.0010, dropout 0.20, valid loss 0.0066, valid acc 0.980
+testing......
+model vggnet, epochs 10, lr 0.0010, dropout 0.20, test loss 0.0050, test acc 0.983
+ending-----------------------------2022-05-02 20:49:11---------------------------
+beginning--------------------------2022-05-02 20:49:12---------------------------
+model: vggnet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.0
+training......
+epoch 1, loss 0.0857, train acc 0.482
+epoch 2, loss 0.0293, train acc 0.850
+epoch 3, loss 0.0152, train acc 0.927
+epoch 4, loss 0.0106, train acc 0.950
+epoch 5, loss 0.0080, train acc 0.962
+epoch 6, loss 0.0064, train acc 0.969
+epoch 7, loss 0.0054, train acc 0.973
+epoch 8, loss 0.0047, train acc 0.977
+epoch 9, loss 0.0040, train acc 0.980
+epoch 10, loss 0.0037, train acc 0.982
+validating......
+model vggnet, epochs 10, lr 0.0001, dropout 0.00, valid loss 0.0035, valid acc 0.983
+testing......
+model vggnet, epochs 10, lr 0.0001, dropout 0.00, test loss 0.0029, test acc 0.985
+ending-----------------------------2022-05-02 21:03:15---------------------------
+beginning--------------------------2022-05-02 21:03:16---------------------------
+model: vggnet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.1
+training......
+epoch 1, loss 0.0600, train acc 0.654
+epoch 2, loss 0.0193, train acc 0.897
+epoch 3, loss 0.0129, train acc 0.933
+epoch 4, loss 0.0098, train acc 0.950
+epoch 5, loss 0.0079, train acc 0.961
+epoch 6, loss 0.0066, train acc 0.968
+epoch 7, loss 0.0056, train acc 0.972
+epoch 8, loss 0.0049, train acc 0.976
+epoch 9, loss 0.0044, train acc 0.979
+epoch 10, loss 0.0040, train acc 0.980
+validating......
+model vggnet, epochs 10, lr 0.0001, dropout 0.10, valid loss 0.0045, valid acc 0.979
+testing......
+model vggnet, epochs 10, lr 0.0001, dropout 0.10, test loss 0.0040, test acc 0.981
+ending-----------------------------2022-05-02 21:17:26---------------------------
+beginning--------------------------2022-05-02 21:17:27---------------------------
+model: vggnet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.2
+training......
+epoch 1, loss 0.0638, train acc 0.637
+epoch 2, loss 0.0194, train acc 0.910
+epoch 3, loss 0.0121, train acc 0.944
+epoch 4, loss 0.0092, train acc 0.958
+epoch 5, loss 0.0074, train acc 0.966
+epoch 6, loss 0.0062, train acc 0.972
+epoch 7, loss 0.0053, train acc 0.976
+epoch 8, loss 0.0049, train acc 0.978
+epoch 9, loss 0.0044, train acc 0.981
+epoch 10, loss 0.0038, train acc 0.983
+validating......
+model vggnet, epochs 10, lr 0.0001, dropout 0.20, valid loss 0.0055, valid acc 0.977
+testing......
+model vggnet, epochs 10, lr 0.0001, dropout 0.20, test loss 0.0048, test acc 0.979
+ending-----------------------------2022-05-02 21:32:17---------------------------
+beginning--------------------------2022-05-02 21:34:07---------------------------
+model: googlenet
+epochs: 10
+learning rate: 0.01
+dropout: 0.0
+training......
+epoch 1, loss 0.2304, train acc 0.107
+epoch 2, loss 0.2303, train acc 0.107
+epoch 3, loss 0.2303, train acc 0.110
+epoch 4, loss 0.2303, train acc 0.106
+epoch 5, loss 0.2303, train acc 0.108
+epoch 6, loss 0.2303, train acc 0.105
+epoch 7, loss 0.2303, train acc 0.107
+epoch 8, loss 0.2303, train acc 0.107
+epoch 9, loss 0.2303, train acc 0.105
+epoch 10, loss 0.2303, train acc 0.107
+validating......
+model googlenet, epochs 10, lr 0.0100, dropout 0.00, valid loss 0.1439, valid acc 0.117
+testing......
+model googlenet, epochs 10, lr 0.0100, dropout 0.00, test loss 0.1439, test acc 0.114
+ending-----------------------------2022-05-02 21:50:18---------------------------
+beginning--------------------------2022-05-02 21:50:20---------------------------
+model: googlenet
+epochs: 10
+learning rate: 0.01
+dropout: 0.1
+training......
+epoch 1, loss 0.2303, train acc 0.106
+epoch 2, loss 0.2303, train acc 0.106
+epoch 3, loss 0.2303, train acc 0.107
+epoch 4, loss 0.2303, train acc 0.108
+epoch 5, loss 0.2303, train acc 0.106
+epoch 6, loss 0.2303, train acc 0.107
+epoch 7, loss 0.2303, train acc 0.107
+epoch 8, loss 0.2303, train acc 0.109
+epoch 9, loss 0.2303, train acc 0.106
+epoch 10, loss 0.2303, train acc 0.109
+validating......
+model googlenet, epochs 10, lr 0.0100, dropout 0.10, valid loss 0.1439, valid acc 0.105
+testing......
+model googlenet, epochs 10, lr 0.0100, dropout 0.10, test loss 0.1439, test acc 0.103
+ending-----------------------------2022-05-02 22:06:26---------------------------
+beginning--------------------------2022-05-02 22:06:27---------------------------
+model: googlenet
+epochs: 10
+learning rate: 0.01
+dropout: 0.2
+training......
+epoch 1, loss 0.2303, train acc 0.108
+epoch 2, loss 0.2303, train acc 0.106
+epoch 3, loss 0.2303, train acc 0.107
+epoch 4, loss 0.2303, train acc 0.106
+epoch 5, loss 0.2303, train acc 0.107
+epoch 6, loss 0.2303, train acc 0.107
+epoch 7, loss 0.2303, train acc 0.106
+epoch 8, loss 0.2304, train acc 0.105
+epoch 9, loss 0.2303, train acc 0.106
+epoch 10, loss 0.2303, train acc 0.106
+validating......
+model googlenet, epochs 10, lr 0.0100, dropout 0.20, valid loss 0.1438, valid acc 0.106
+testing......
+model googlenet, epochs 10, lr 0.0100, dropout 0.20, test loss 0.1439, test acc 0.101
+ending-----------------------------2022-05-02 22:22:16---------------------------
+beginning--------------------------2022-05-02 22:22:17---------------------------
+model: googlenet
+epochs: 10
+learning rate: 0.001
+dropout: 0.0
+training......
+epoch 1, loss 0.0855, train acc 0.662
+epoch 2, loss 0.0210, train acc 0.934
+epoch 3, loss 0.0140, train acc 0.956
+epoch 4, loss 0.0112, train acc 0.966
+epoch 5, loss 0.0095, train acc 0.971
+epoch 6, loss 0.0086, train acc 0.973
+epoch 7, loss 0.0077, train acc 0.977
+epoch 8, loss 0.0070, train acc 0.979
+epoch 9, loss 0.0065, train acc 0.980
+epoch 10, loss 0.0062, train acc 0.980
+validating......
+model googlenet, epochs 10, lr 0.0010, dropout 0.00, valid loss 0.0042, valid acc 0.981
+testing......
+model googlenet, epochs 10, lr 0.0010, dropout 0.00, test loss 0.0031, test acc 0.986
+ending-----------------------------2022-05-02 22:38:02---------------------------
+beginning--------------------------2022-05-02 22:38:04---------------------------
+model: googlenet
+epochs: 10
+learning rate: 0.001
+dropout: 0.1
+training......
+epoch 1, loss 0.0912, train acc 0.618
+epoch 2, loss 0.0305, train acc 0.894
+epoch 3, loss 0.0204, train acc 0.936
+epoch 4, loss 0.0162, train acc 0.949
+epoch 5, loss 0.0135, train acc 0.958
+epoch 6, loss 0.0120, train acc 0.963
+epoch 7, loss 0.0110, train acc 0.966
+epoch 8, loss 0.0097, train acc 0.971
+epoch 9, loss 0.0092, train acc 0.973
+epoch 10, loss 0.0085, train acc 0.975
+validating......
+model googlenet, epochs 10, lr 0.0010, dropout 0.10, valid loss 0.0071, valid acc 0.970
+testing......
+model googlenet, epochs 10, lr 0.0010, dropout 0.10, test loss 0.0056, test acc 0.975
+ending-----------------------------2022-05-02 22:53:41---------------------------
+beginning--------------------------2022-05-02 22:53:42---------------------------
+model: googlenet
+epochs: 10
+learning rate: 0.001
+dropout: 0.2
+training......
+epoch 1, loss 0.0882, train acc 0.638
+epoch 2, loss 0.0272, train acc 0.908
+epoch 3, loss 0.0196, train acc 0.938
+epoch 4, loss 0.0156, train acc 0.951
+epoch 5, loss 0.0137, train acc 0.959
+epoch 6, loss 0.0124, train acc 0.962
+epoch 7, loss 0.0108, train acc 0.968
+epoch 8, loss 0.0104, train acc 0.969
+epoch 9, loss 0.0096, train acc 0.971
+epoch 10, loss 0.0095, train acc 0.970
+validating......
+model googlenet, epochs 10, lr 0.0010, dropout 0.20, valid loss 0.0064, valid acc 0.973
+testing......
+model googlenet, epochs 10, lr 0.0010, dropout 0.20, test loss 0.0061, test acc 0.975
+ending-----------------------------2022-05-02 23:09:28---------------------------
+beginning--------------------------2022-05-02 23:09:30---------------------------
+model: googlenet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.0
+training......
+epoch 1, loss 0.2032, train acc 0.161
+epoch 2, loss 0.1220, train acc 0.479
+epoch 3, loss 0.1016, train acc 0.584
+epoch 4, loss 0.0811, train acc 0.698
+epoch 5, loss 0.0674, train acc 0.754
+epoch 6, loss 0.0592, train acc 0.788
+epoch 7, loss 0.0532, train acc 0.811
+epoch 8, loss 0.0477, train acc 0.833
+epoch 9, loss 0.0424, train acc 0.852
+epoch 10, loss 0.0378, train acc 0.870
+validating......
+model googlenet, epochs 10, lr 0.0001, dropout 0.00, valid loss 0.0306, valid acc 0.847
+testing......
+model googlenet, epochs 10, lr 0.0001, dropout 0.00, test loss 0.0280, test acc 0.857
+ending-----------------------------2022-05-02 23:25:00---------------------------
+beginning--------------------------2022-05-02 23:25:02---------------------------
+model: googlenet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.1
+training......
+epoch 1, loss 0.1951, train acc 0.191
+epoch 2, loss 0.1313, train acc 0.399
+epoch 3, loss 0.1113, train acc 0.495
+epoch 4, loss 0.0931, train acc 0.593
+epoch 5, loss 0.0779, train acc 0.664
+epoch 6, loss 0.0664, train acc 0.715
+epoch 7, loss 0.0582, train acc 0.755
+epoch 8, loss 0.0524, train acc 0.787
+epoch 9, loss 0.0466, train acc 0.818
+epoch 10, loss 0.0417, train acc 0.845
+validating......
+model googlenet, epochs 10, lr 0.0001, dropout 0.10, valid loss 0.0323, valid acc 0.842
+testing......
+model googlenet, epochs 10, lr 0.0001, dropout 0.10, test loss 0.0309, test acc 0.844
+ending-----------------------------2022-05-02 23:40:51---------------------------
+beginning--------------------------2022-05-02 23:40:53---------------------------
+model: googlenet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.2
+training......
+epoch 1, loss 0.2101, train acc 0.153
+epoch 2, loss 0.1413, train acc 0.382
+epoch 3, loss 0.1204, train acc 0.464
+epoch 4, loss 0.1098, train acc 0.500
+epoch 5, loss 0.1021, train acc 0.535
+epoch 6, loss 0.0954, train acc 0.561
+epoch 7, loss 0.0893, train acc 0.584
+epoch 8, loss 0.0827, train acc 0.611
+epoch 9, loss 0.0764, train acc 0.653
+epoch 10, loss 0.0693, train acc 0.704
+validating......
+model googlenet, epochs 10, lr 0.0001, dropout 0.20, valid loss 0.0507, valid acc 0.732
+testing......
+model googlenet, epochs 10, lr 0.0001, dropout 0.20, test loss 0.0492, test acc 0.733
+ending-----------------------------2022-05-02 23:56:54---------------------------
+beginning--------------------------2022-05-03 00:26:40---------------------------
+model: resnet
+epochs: 10
+learning rate: 0.01
+dropout: 0.0
+training......
+epoch 1, loss 0.1459, train acc 0.105
+epoch 2, loss 0.1439, train acc 0.108
+epoch 3, loss 0.1440, train acc 0.105
+epoch 4, loss 0.1440, train acc 0.106
+epoch 5, loss 0.1440, train acc 0.106
+epoch 6, loss 0.1440, train acc 0.107
+epoch 7, loss 0.1440, train acc 0.106
+epoch 8, loss 0.1440, train acc 0.108
+epoch 9, loss 0.1440, train acc 0.107
+epoch 10, loss 0.1440, train acc 0.107
+validating......
+model resnet, epochs 10, lr 0.0100, dropout 0.00, valid loss 0.1438, valid acc 0.117
+testing......
+model resnet, epochs 10, lr 0.0100, dropout 0.00, test loss 0.1439, test acc 0.114
+ending-----------------------------2022-05-03 01:09:43---------------------------
+beginning--------------------------2022-05-03 01:09:45---------------------------
+model: resnet
+epochs: 10
+learning rate: 0.01
+dropout: 0.1
+training......
+epoch 1, loss 0.1481, train acc 0.106
+epoch 2, loss 0.1440, train acc 0.108
+epoch 3, loss 0.1439, train acc 0.108
+epoch 4, loss 0.1440, train acc 0.107
+epoch 5, loss 0.1439, train acc 0.107
+epoch 6, loss 0.1440, train acc 0.108
+epoch 7, loss 0.1440, train acc 0.108
+epoch 8, loss 0.1439, train acc 0.107
+epoch 9, loss 0.1439, train acc 0.109
+epoch 10, loss 0.1439, train acc 0.107
+validating......
+model resnet, epochs 10, lr 0.0100, dropout 0.10, valid loss 0.1438, valid acc 0.117
+testing......
+model resnet, epochs 10, lr 0.0100, dropout 0.10, test loss 0.1439, test acc 0.114
+ending-----------------------------2022-05-03 01:52:41---------------------------
+beginning--------------------------2022-05-03 01:52:42---------------------------
+model: resnet
+epochs: 10
+learning rate: 0.01
+dropout: 0.2
+training......
+epoch 1, loss 0.1472, train acc 0.107
+epoch 2, loss 0.1440, train acc 0.106
+epoch 3, loss 0.1440, train acc 0.106
+epoch 4, loss 0.1440, train acc 0.106
+epoch 5, loss 0.1439, train acc 0.105
+epoch 6, loss 0.1440, train acc 0.108
+epoch 7, loss 0.1440, train acc 0.104
+epoch 8, loss 0.1440, train acc 0.108
+epoch 9, loss 0.1439, train acc 0.108
+epoch 10, loss 0.1440, train acc 0.106
+validating......
+model resnet, epochs 10, lr 0.0100, dropout 0.20, valid loss 0.1439, valid acc 0.117
+testing......
+model resnet, epochs 10, lr 0.0100, dropout 0.20, test loss 0.1439, test acc 0.114
+ending-----------------------------2022-05-03 02:35:45---------------------------
+beginning--------------------------2022-05-03 02:35:46---------------------------
+model: resnet
+epochs: 10
+learning rate: 0.001
+dropout: 0.0
+training......
+epoch 1, loss 0.0081, train acc 0.961
+epoch 2, loss 0.0030, train acc 0.985
+epoch 3, loss 0.0021, train acc 0.990
+epoch 4, loss 0.0016, train acc 0.992
+epoch 5, loss 0.0012, train acc 0.994
+epoch 6, loss 0.0010, train acc 0.995
+epoch 7, loss 0.0007, train acc 0.997
+epoch 8, loss 0.0007, train acc 0.997
+epoch 9, loss 0.0006, train acc 0.997
+epoch 10, loss 0.0006, train acc 0.997
+validating......
+model resnet, epochs 10, lr 0.0010, dropout 0.00, valid loss 0.0043, valid acc 0.988
+testing......
+model resnet, epochs 10, lr 0.0010, dropout 0.00, test loss 0.0045, test acc 0.988
+ending-----------------------------2022-05-03 03:14:09---------------------------
+beginning--------------------------2022-05-03 03:14:10---------------------------
+model: resnet
+epochs: 10
+learning rate: 0.001
+dropout: 0.1
+training......
+epoch 1, loss 0.0091, train acc 0.956
+epoch 2, loss 0.0036, train acc 0.983
+epoch 3, loss 0.0025, train acc 0.988
+epoch 4, loss 0.0019, train acc 0.991
+epoch 5, loss 0.0015, train acc 0.993
+epoch 6, loss 0.0013, train acc 0.994
+epoch 7, loss 0.0010, train acc 0.995
+epoch 8, loss 0.0010, train acc 0.995
+epoch 9, loss 0.0010, train acc 0.996
+epoch 10, loss 0.0007, train acc 0.997
+validating......
+model resnet, epochs 10, lr 0.0010, dropout 0.10, valid loss 0.0045, valid acc 0.987
+testing......
+model resnet, epochs 10, lr 0.0010, dropout 0.10, test loss 0.0053, test acc 0.984
+ending-----------------------------2022-05-03 03:52:35---------------------------
+beginning--------------------------2022-05-03 03:52:37---------------------------
+model: resnet
+epochs: 10
+learning rate: 0.001
+dropout: 0.2
+training......
+epoch 1, loss 0.0089, train acc 0.957
+epoch 2, loss 0.0036, train acc 0.983
+epoch 3, loss 0.0027, train acc 0.987
+epoch 4, loss 0.0021, train acc 0.990
+epoch 5, loss 0.0017, train acc 0.991
+epoch 6, loss 0.0016, train acc 0.993
+epoch 7, loss 0.0013, train acc 0.994
+epoch 8, loss 0.0012, train acc 0.994
+epoch 9, loss 0.0010, train acc 0.995
+epoch 10, loss 0.0008, train acc 0.996
+validating......
+model resnet, epochs 10, lr 0.0010, dropout 0.20, valid loss 0.0036, valid acc 0.988
+testing......
+model resnet, epochs 10, lr 0.0010, dropout 0.20, test loss 0.0036, test acc 0.988
+ending-----------------------------2022-05-03 04:30:57---------------------------
+beginning--------------------------2022-05-03 04:30:58---------------------------
+model: resnet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.0
+training......
+epoch 1, loss 0.0096, train acc 0.951
+epoch 2, loss 0.0030, train acc 0.985
+epoch 3, loss 0.0019, train acc 0.990
+epoch 4, loss 0.0014, train acc 0.993
+epoch 5, loss 0.0010, train acc 0.995
+epoch 6, loss 0.0007, train acc 0.996
+epoch 7, loss 0.0006, train acc 0.997
+epoch 8, loss 0.0005, train acc 0.997
+epoch 9, loss 0.0004, train acc 0.998
+epoch 10, loss 0.0003, train acc 0.998
+validating......
+model resnet, epochs 10, lr 0.0001, dropout 0.00, valid loss 0.0027, valid acc 0.989
+testing......
+model resnet, epochs 10, lr 0.0001, dropout 0.00, test loss 0.0022, test acc 0.989
+ending-----------------------------2022-05-03 05:04:44---------------------------
+beginning--------------------------2022-05-03 05:04:45---------------------------
+model: resnet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.1
+training......
+epoch 1, loss 0.0093, train acc 0.954
+epoch 2, loss 0.0032, train acc 0.984
+epoch 3, loss 0.0021, train acc 0.989
+epoch 4, loss 0.0016, train acc 0.992
+epoch 5, loss 0.0011, train acc 0.994
+epoch 6, loss 0.0009, train acc 0.995
+epoch 7, loss 0.0008, train acc 0.996
+epoch 8, loss 0.0006, train acc 0.997
+epoch 9, loss 0.0005, train acc 0.997
+epoch 10, loss 0.0004, train acc 0.998
+validating......
+model resnet, epochs 10, lr 0.0001, dropout 0.10, valid loss 0.0027, valid acc 0.990
+testing......
+model resnet, epochs 10, lr 0.0001, dropout 0.10, test loss 0.0019, test acc 0.992
+ending-----------------------------2022-05-03 05:38:22---------------------------
+beginning--------------------------2022-05-03 05:38:23---------------------------
+model: resnet
+epochs: 10
+learning rate: 0.0001
+dropout: 0.2
+training......
+epoch 1, loss 0.0095, train acc 0.953
+epoch 2, loss 0.0032, train acc 0.984
+epoch 3, loss 0.0023, train acc 0.988
+epoch 4, loss 0.0017, train acc 0.991
+epoch 5, loss 0.0013, train acc 0.993
+epoch 6, loss 0.0011, train acc 0.994
+epoch 7, loss 0.0008, train acc 0.995
+epoch 8, loss 0.0008, train acc 0.996
+epoch 9, loss 0.0007, train acc 0.996
+epoch 10, loss 0.0006, train acc 0.996
+validating......
+model resnet, epochs 10, lr 0.0001, dropout 0.20, valid loss 0.0025, valid acc 0.990
+testing......
+model resnet, epochs 10, lr 0.0001, dropout 0.20, test loss 0.0018, test acc 0.992
+ending-----------------------------2022-05-03 06:12:07---------------------------
